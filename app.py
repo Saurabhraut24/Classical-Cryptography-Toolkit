@@ -28,7 +28,7 @@ st.set_page_config(
 
 # Title & Header
 st.title("🔒 Classical Cryptography Toolkit")
-st.caption("Network Security Mini Project | Streamlit Interactive Interface")
+st.caption("Explore classical ciphers through interactive encryption, decryption, and analysis.")
 
 # Sidebar Navigation
 st.sidebar.title("📌 Navigation Menu")
@@ -70,7 +70,12 @@ else:
     )
 
 st.sidebar.markdown("---")
-st.sidebar.info("💡 **Course**: Network Security Mini Project\n\n**Class**: Final Year (ECM)")
+st.sidebar.info(
+    "🔐 **Cryptography Toolkit**\n\n"
+    "**Substitution & Transposition**\n"
+    "Encryption • Decryption\n"
+    "Analysis • Visualization"
+)
 
 # Main Content Routing
 
