@@ -6,6 +6,8 @@
 
 An interactive, high-performance **Classical Cryptography Web Application & CLI Toolkit** built with **Python**, **Streamlit**, **Pandas**, and **NumPy**. This toolkit provides interactive visualization, mathematical breakdown, performance benchmarking, and file encryption/decryption utilities for 8 fundamental classical ciphers.
 
+🔗 **Live Demo:** [Classical Cryptography Toolkit](https://classical-cryptography-toolkit.streamlit.app/)
+
 ---
 
 ## 🌟 Key Features
